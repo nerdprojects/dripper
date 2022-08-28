@@ -1,0 +1,4 @@
+Default	stepSize=9;dSize=10;dropEnd=0.03;wetSpeed=0.03;drySpeed=0.01;yVarFrame=4;yVarMin=-0.2;yVarMax=0.2;sizeVarFrame=4;sizeVarMin=0;sizeVarMax=0;
+Smearing	stepSize=3;dSize=15;dropEnd=0;wetSpeed=0.09;drySpeed=0.01;yVarFrame=10;yVarMin=0;yVarMax=0;sizeVarFrame=10;sizeVarMin=-3;sizeVarMax=3;
+Icicles	stepSize=9;dSize=15;dropEnd=0;wetSpeed=0.03;drySpeed=0.01;yVarFrame=4;yVarMin=-0.2;yVarMax=0.2;sizeVarFrame=1;sizeVarMin=-0.3;sizeVarMax=0;
+Thin	stepSize=9;dSize=3.5;dropEnd=0.01;wetSpeed=0.03;drySpeed=0.01;yVarFrame=4;yVarMin=-0.2;yVarMax=0.2;sizeVarFrame=1;sizeVarMin=0;sizeVarMax=0.05;
